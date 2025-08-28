@@ -29,6 +29,6 @@
 <a href="https://www.linkedin.com/in/yong-han-lee/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a> &nbsp;
-<a href="mailto:your.email@domain.com">
+<a href="mailto:yonghan1810@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail.png" width="40" height="40"/>
 </a>
