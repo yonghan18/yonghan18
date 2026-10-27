@@ -2,7 +2,7 @@
 
 🎓 Final Year Computer Science student at Monash University Malaysia  
 💡 Passionate about learning new technologies and turning ideas into projects  
-🌐 Check out my portfolio: [yonghanlee.me](https://yonghanlee.me/)
+🌐 Check out my portfolio: [yonghanlee.vercel.app](https://yonghanlee.vercel.app/)
 
 ---
 
