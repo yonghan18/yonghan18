@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yong Han Lee
 
-🎓 Final Year Computer Science student at Monash University Malaysia  
+🎓 Computer Science Graduate @ Monash University Malaysia  
 💡 Passionate about learning new technologies and turning ideas into projects  
 🌐 Check out my portfolio: [yonghanlee.vercel.app](https://yonghanlee.vercel.app/)
 
